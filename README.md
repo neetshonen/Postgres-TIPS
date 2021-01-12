@@ -1,2 +1,2 @@
 # Postgres-TIPS
-Readme MD posts for Postgres database managment tips
+COPY ON CONFLICT / EDIT PRIMARY KEY See [EditPrimaryKey.md](https://github.com/neetshonen/Postgres-TIPS/blob/main/EditPrimaryKey.md)
